@@ -1,0 +1,17 @@
+.homework2-container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.gallery {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+}
+
+.gallery img {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+}
